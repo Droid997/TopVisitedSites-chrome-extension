@@ -8,10 +8,6 @@
            "default_title": "Top Visited Sites",
 			"default_popup":"popup.html"		
         },
-	"background": {
-      "scripts": ["background.js"],
-      "persistent": false
-    },
 	 "permissions": [
           "system.storage","topSites","storage","tabs"
         ],
